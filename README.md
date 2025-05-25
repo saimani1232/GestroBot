@@ -1,5 +1,4 @@
-# GestroBot
-# Gesture-Controlled 3D Robot Interface 🤖✋
+# GestroBot- Gesture Controlled 3D Robot Interface 🤖✋
 
 This project demonstrates a **real-time gesture recognition system** that controls a 3D humanoid robot using hand gestures. It combines **computer vision**, **machine learning**, and **real-time 3D simulation**.
 
