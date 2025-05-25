@@ -33,8 +33,6 @@ This project demonstrates a **real-time gesture recognition system** that contro
 ```
 Gesture-Controlled-Robot/
 ├── gesture_control.py         # Main Python file with MediaPipe + OpenCV logic
-├── utils/
-│   └── gesture_classifier.py  # Classifies gestures from hand landmarks
 ├── README.md
 ```
 
