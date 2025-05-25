@@ -50,7 +50,7 @@ Gesture-Controlled-Robot/
 * Left: Hand tracking and gesture recognition
 * Right: Humanoid robot in Unreal Engine responding to commands
 
-![Demo Screenshot](path/to/demo_image.png) *(add image or link here)*
+![Demo Screenshot](demo_img.jpg) *(add image or link here)*
 
 ---
 
